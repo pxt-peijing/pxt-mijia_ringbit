@@ -1,0 +1,22 @@
+{
+    "name": "RingbitCar",
+    "version": "2.1.1",
+    "description": "ELECFREAKS ring:bit car",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ringbitcar.ts",
+        "_locales/zh-cn/RingbitCar-strings.json",
+        "_locales/zh-tw/RingbitCar-strings.json",
+        "_locales/ja/RingbitCar-strings.json",
+        "_locales/fr/RingbitCar-strings.json",
+        "_locales/fr/RingbitCar-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
